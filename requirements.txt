@@ -1,0 +1,7 @@
+Flask>=3.0,<4
+gunicorn>=22,<25
+SQLAlchemy>=2.0,<3
+psycopg2-binary>=2.9,<3
+pandas>=2.1,<3
+numpy>=1.26,<3
+tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git
